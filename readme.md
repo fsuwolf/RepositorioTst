@@ -1,4 +1,6 @@
 #RepositorioTst
 
-Este repositorio foi criado para uso durante o curso de Git
+Este repositorio foi criado para uso durante o curso de Git. 
+
+- Andre Young
 
